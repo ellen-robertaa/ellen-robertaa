@@ -4,7 +4,7 @@ Olá, Mundo! Atualmente sou estudante de TI.
 
 Sou apaixonada por games e tecnoligia.
 
-<img align="center" alt="ellen-Python" height="30" width="40" src="https://r![pngtree-red-spider-web-png-image_2914871-removebg-preview](https://github.com/user-attachments/assets/df2baa82-0ca3-4780-9178-933576e9ac1a)
+<img align="center" alt="ellen-Python" height="30" width="40" src="https://r![pngtree-red-spider-web-png-image_2914871-removebg-preview](https://github.com/user-attachments/assets/df2baa82-0ca3-4780-9178-933576e9ac1a)>
 aw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="ellen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
