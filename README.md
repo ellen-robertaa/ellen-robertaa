@@ -1,6 +1,6 @@
 
 ## :spider_web::purple_heart: Ellen Roberta
-Olá, Mundo! Atualmente sou estudante de TI.
+Estudante de Sistemas de Informação.
 
 Sou apaixonada por games e tecnoligia.
 ## Linguagens que uso no meu dia a dia.
