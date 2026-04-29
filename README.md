@@ -1,5 +1,5 @@
 
-## :spider_web::purple_heart: Ellen Roberta
+Ellen Roberta.😃
 Olá, eu sou a Ellen. 👋🏽
 
 Sou estudante de SISTEMAS DE INFORMAÇÃO na Universidade Federal de Mato Grosso do Sul (UFMS).
