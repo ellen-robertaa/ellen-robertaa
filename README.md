@@ -1,7 +1,10 @@
 
 ## :spider_web::purple_heart: Ellen Roberta
-Estudante de Sistemas de Informação.
+Olá, eu sou Ellen. 👋
 
-Sou apaixonada por games e tecnoligia.
+Sou estudante de SISTEMAS DE INFORMAÇÃO na Universidade Federal de Mato Grosso do Sul (UFMS).
+
+Atualmente estou construindo minha trajetória na área de tecnologia por meio de estudos e projetos, sempre buscando aprender, evoluir e desenvolver novas habilidades.
+
 
 
